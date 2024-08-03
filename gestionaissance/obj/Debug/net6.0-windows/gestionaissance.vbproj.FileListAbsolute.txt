@@ -1,0 +1,57 @@
+C:\Users\emery\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.vbproj.AssemblyReference.cache
+C:\Users\emery\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.GestionNaissance.resources
+C:\Users\emery\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.vbproj.GenerateResource.cache
+C:\Users\emery\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emery\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.AssemblyInfoInputs.cache
+C:\Users\emery\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.AssemblyInfo.vb
+C:\Users\emery\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.vbproj.CoreCompileInputs.cache
+C:\Users\emery\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.Form1.resources
+C:\Users\emery\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.Nais.resources
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\gestionaissance.exe
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\gestionaissance.deps.json
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\gestionaissance.runtimeconfig.json
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\gestionaissance.dll
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\ref\gestionaissance.dll
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\gestionaissance.pdb
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\PNL TECK\source\repos\gestionaissance\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.vbproj.AssemblyReference.cache
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.Form1.resources
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.vbproj.GenerateResource.cache
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.AssemblyInfoInputs.cache
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.AssemblyInfo.vb
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.vbproj.CoreCompileInputs.cache
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.vbproj.CopyComplete
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.dll
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\ref\gestionaissance.dll
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.pdb
+C:\Users\PNL TECK\source\repos\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.genruntimeconfig.cache
+F:\gestionaissance\bin\Debug\net6.0-windows\gestionaissance.exe
+F:\gestionaissance\bin\Debug\net6.0-windows\gestionaissance.deps.json
+F:\gestionaissance\bin\Debug\net6.0-windows\gestionaissance.runtimeconfig.json
+F:\gestionaissance\bin\Debug\net6.0-windows\gestionaissance.dll
+F:\gestionaissance\bin\Debug\net6.0-windows\ref\gestionaissance.dll
+F:\gestionaissance\bin\Debug\net6.0-windows\gestionaissance.pdb
+F:\gestionaissance\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+F:\gestionaissance\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+F:\gestionaissance\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+F:\gestionaissance\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+F:\gestionaissance\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+F:\gestionaissance\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.vbproj.AssemblyReference.cache
+F:\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.Form1.resources
+F:\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.vbproj.GenerateResource.cache
+F:\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.GeneratedMSBuildEditorConfig.editorconfig
+F:\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.AssemblyInfoInputs.cache
+F:\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.AssemblyInfo.vb
+F:\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.vbproj.CoreCompileInputs.cache
+F:\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.vbproj.CopyComplete
+F:\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.dll
+F:\gestionaissance\obj\Debug\net6.0-windows\ref\gestionaissance.dll
+F:\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.pdb
+F:\gestionaissance\obj\Debug\net6.0-windows\gestionaissance.genruntimeconfig.cache
